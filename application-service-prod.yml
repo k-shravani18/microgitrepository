@@ -9,4 +9,4 @@ spring:
   database-platform: org.hibernate.dialect.MySQL5Dialect
   show-sql: true
 
-message: have a great day - defaultS
+message: have a great day - from production profile
